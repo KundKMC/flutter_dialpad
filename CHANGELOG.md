@@ -1,3 +1,6 @@
+## [1.0.5] - 2022-10-31
+* Remove DTMF Function because it's crashing WebView
+
 ## [1.0.4] - 2022-02-21
 * Crash Fix
 
