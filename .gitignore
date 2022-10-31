@@ -3,7 +3,7 @@
 *.log
 pubspec.lock
 example/pubspec.lock
-example/ios/*
+example/ios/Flutter/flutter_export_environment.sh
 *.pyc
 *.swp
 .DS_Store
