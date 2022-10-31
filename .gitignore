@@ -1,6 +1,9 @@
 # Miscellaneous
 *.class
 *.log
+pubspec.lock
+example/pubspec.lock
+example/ios/*
 *.pyc
 *.swp
 .DS_Store
